@@ -9,7 +9,7 @@
 Программа, которая предоставляет пул: https://github.com/suprohub/novaprox
 
 ## Как добавить
-Добавьте эту ссылку как подписку: https://raw.githubusercontent.com
+Добавьте эту ссылку как подписку: https://raw.githubusercontent.com/suprohub/normal-ethernet/refs/heads/main/vless.txt
 
 А если вы используете по мобильной сети (4g, lte, ..), добавьте лучше вот эту: https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/suprohub/normal-ethernet/refs/heads/main/vless.txt&lang=en-en
 
