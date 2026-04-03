@@ -10,5 +10,7 @@
 
 ## Как добавить
 Добавьте эту ссылку как подписку: https://raw.githubusercontent.com
+
 А если вы используете по мобильной сети (4g, lte, ..), добавьте лучше вот эту: https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/suprohub/normal-ethernet/refs/heads/main/vless.txt&lang=en-en
+
 Гайд как добавлять (замените слово ключ на подписка): https://telegra.ph/Vless---Android-11-29
