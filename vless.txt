@@ -1,6 +1,2 @@
-vless://478ca3b9-5a58-4ac4-a9fe-23ee28f0b03b@158.160.98.174:443?flow=xtls-rprx-vision&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&security=reality&sid=3c1523da43287ec4&sni=smartcaptcha.yandexcloud.net&type=tcp#🇷🇺 - 1 [575ms] (267 KB/s)
-vless://478ca3b9-5a58-4ac4-a9fe-23ee28f0b03b@158.160.111.153:443?flow=xtls-rprx-vision&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&security=reality&sid=3c1523da43287ec4&sni=smartcaptcha.yandexcloud.net&type=tcp#🇷🇺 - 2 [611ms] (252 KB/s)
-vless://f5a09282-be6f-48b1-b66c-22dc9d04dc08@170.114.46.99:443?alpn=h2,http/1.1&mode=multi&security=tls&serviceName=grpc&sni=fr1-hb.zoomapiservice.com&type=grpc#🇫🇷 - 3 [637ms] (240 KB/s)
-vless://cb7033b7-db45-4721-affe-0ff0c656b6ce@103.88.243.165:443?flow=xtls-rprx-vision&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&security=reality&sid=b2a6e3d42f05c3d1&sni=max.ru&type=tcp#🇷🇺 - 4 [798ms] (193 KB/s)
-vless://18d13783-1f5d-475e-9ae3-3953876a40af@37.139.35.229:443?flow=xtls-rprx-vision&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&security=reality&sid=b2a6e3d42f05c3d1&sni=max.ru&type=tcp#🇷🇺 - 5 [1634ms] (94 KB/s)
-vless://cb7033b7-db45-4721-affe-0ff0c656b6ce@37.139.35.229:443?flow=xtls-rprx-vision&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&security=reality&sid=b2a6e3d42f05c3d1&sni=max.ru&type=tcp#🇷🇺 - 6 [2233ms] (69 KB/s)
+vless://f5a09282-be6f-48b1-b66c-22dc9d04dc08@170.114.46.99:443?alpn=h2,http/1.1&mode=multi&security=tls&serviceName=grpc&sni=fr1-hb.zoomapiservice.com&type=grpc#🇫🇷 - 1 [941ms] (163 KB/s)
+vless://cb7033b7-db45-4721-affe-0ff0c656b6ce@37.139.35.229:443?flow=xtls-rprx-vision&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&security=reality&sid=b2a6e3d42f05c3d1&sni=max.ru&type=tcp#🇷🇺 - 2 [2291ms] (67 KB/s)
