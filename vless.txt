@@ -1,3 +1,1 @@
-vless://d0dc8105-4872-4be6-a88c-810734a1a972@92.246.136.234:23082?pbk=BvSHgXg0pe3dLDnxrRH16vnalnsME0fguDuLhqL2Tlo&security=reality&sid=711afad361&sni=www.tesla.com&type=tcp#🇩🇪 - 1 [1185ms] (129 KB/s)
-vless://43488128-319e-f480-64ea-0acdc712e2a8@5.252.23.53:443?flow=xtls-rprx-vision&pbk=576eZ6y-yeWeJnmleDLI5bjyy90_Zd92-rpgy67Q6gg&security=reality&sid=555fd87c44d272a4&sni=www.hyundai.com&type=tcp#🇸🇰 - 2 [1496ms] (101 KB/s)
-vless://8a2801e5-fbfd-4c6a-8b27-a805bcbb4731@95.183.13.124:4054?type=tcp#🇳🇱 - 3 [1537ms] (100 KB/s)
+vless://43488128-319e-f480-64ea-0acdc712e2a8@5.252.23.53:443?flow=xtls-rprx-vision&pbk=576eZ6y-yeWeJnmleDLI5bjyy90_Zd92-rpgy67Q6gg&security=reality&sid=555fd87c44d272a4&sni=www.hyundai.com&type=tcp#🇸🇰 - 1 [1305ms] (117 KB/s)
