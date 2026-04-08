@@ -1,5 +1,2 @@
-vless://aa44e342-82e3-4b9a-8250-3ce76ebbcdfd@51.250.98.34:443?flow=xtls-rprx-vision&pbk=HHmhCp_qS_hIgIniZwaNwqI5CFH2_QmES4dFO41BRWo&security=reality&sid=64038de1ca7aad86&sni=wl-6-2.legendary-vpn.com&type=tcp#🇷🇺 - 1 [566ms] (273 KB/s)
-vless://aa44e342-82e3-4b9a-8250-3ce76ebbcdfd@51.250.17.180:443?flow=xtls-rprx-vision&pbk=HXP9HKqhQvwTwh0cgddJ3c3VND1lwRYRXgKfW1XPaX4&security=reality&sid=bf0c3248f61fe277&sni=wl-6-3.legendary-vpn.com&type=tcp#🇷🇺 - 2 [619ms] (250 KB/s)
-vless://191ef9dd-1839-405f-bc8c-08b214f5c13d@158.160.98.174:443?flow=xtls-rprx-vision&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&security=reality&sid=3c1523da43287ec4&sni=smartcaptcha.yandexcloud.net&type=tcp#🇷🇺 - 3 [1121ms] (138 KB/s)
-vless://191ef9dd-1839-405f-bc8c-08b214f5c13d@158.160.111.153:443?flow=xtls-rprx-vision&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&security=reality&sid=3c1523da43287ec4&sni=smartcaptcha.yandexcloud.net&type=tcp#🇷🇺 - 4 [1333ms] (116 KB/s)
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?ed=2048&eh=Sec-WebSocket-Protocol&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#🇫🇮 - 5 [1551ms] (99 KB/s)
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@141.193.213.11:2053?ed=2048&eh=Sec-WebSocket-Protocol&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#🇫🇮 - 1 [1387ms] (110 KB/s)
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@150.241.82.3:443?flow=xtls-rprx-vision&pbk=-yTIP_yek0O1V8tG2yclXp74s55wEgn_aFxbuy-Q-X8&security=reality&sid=c6118399&sni=max.ru&type=tcp#🇺🇸 - 2 [1900ms] (81 KB/s)
