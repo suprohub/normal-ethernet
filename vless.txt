@@ -1,2 +1,2 @@
-vless://e2daaf71-363d-43f7-852b-1a6d1117734e@77.232.43.227:443?alpn=h2,http/1.1&flow=xtls-rprx-vision&security=tls&sni=ng-de-0.woffic1al.com&type=tcp#🇩🇪 - 1 [775ms] (197 KB/s)
-vless://a9f04f1f-e481-4060-bab3-42c5da6ba7f4@45.8.144.248:21443?flow=xtls-rprx-vision&pbk=zth5D3j_Z6j1UVmgHq1zgFScMFWQu_L6JjOVvfRzzFk&security=reality&sid=bf&sni=steampowered.com&type=tcp#🇳🇱 - 2 [1094ms] (141 KB/s)
+vless://634912cb-e031-4b2c-8212-06b4ac48ee5f@198.105.123.77:7443?flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#🇹🇷 - 1 [1092ms] (140 KB/s)
+vless://e0bf82db-50e1-4017-b15e-6402420226af@38.107.236.177:443?flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=usa.pink-world.ru&type=tcp#🇺🇸 - 2 [1809ms] (84 KB/s)
