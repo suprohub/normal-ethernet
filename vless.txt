@@ -1,4 +1,1 @@
-vless://43dbc0c8-6dc9-4aa2-bbc9-1a531786acf0@150.241.66.2:50455?pbk=mQYffVOT9WjeMOt3OidRFhRHnXpPg5B4Det191XOOw0&security=reality&sid=46de700d6dd1c5c8&sni=web.max.ru&type=xhttp#🇩🇪 - 1 [614ms] (251 KB/s)
-vless://cef7366b-496a-4a85-a5b6-dd8d1deff9f7@84.201.147.213:3443?flow=xtls-rprx-vision&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&security=reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=tcp#🇳🇱 - 2 [1063ms] (146 KB/s)
-vless://cef7366b-496a-4a85-a5b6-dd8d1deff9f7@84.201.134.125:443?flow=xtls-rprx-vision&pbk=YKDxvQImldrUfVaJM_Hr49gpEqrDE66j7Psw4vOZuyI&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇳🇱 - 3 [1080ms] (143 KB/s)
-vless://cef7366b-496a-4a85-a5b6-dd8d1deff9f7@84.201.147.213:443?flow=xtls-rprx-vision&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#🇳🇱 - 4 [1296ms] (120 KB/s)
+vless://bd41fe1b-975c-4294-8af3-c56b3c48bad0@46.243.232.186:443?mode=gun&pbk=OoPqWo20Aq1LsqmZCnGxcvLHun7S1d6F4Bx6PbxpOVE&security=reality&serviceName=vless-grpc&sid=5FA44664f6a566d3&sni=ads.x5.ru&type=grpc#🇫🇮 - 1 [1547ms] (99 KB/s)
