@@ -1,6 +1,2 @@
-vless://cf7cad29-4686-4640-a382-32d55d2f4f36@84.201.147.213:443?flow=xtls-rprx-vision&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#🇳🇱 - 1 [763ms] (199 KB/s)
-vless://23d3c091-b0b8-40ef-a24a-bf46dcf9c744@78.159.246.239:443?flow=xtls-rprx-vision&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&security=reality&sid=f4e2b8971d5c3a9f&sni=x5.ru&type=tcp#🇩🇪 - 2 [817ms] (189 KB/s)
-vless://cf7cad29-4686-4640-a382-32d55d2f4f36@158.160.220.7:6443?flow=xtls-rprx-vision&pbk=EagleFOEX2C-aS-78Ivg8U6tCxOJ7X1IovccktpXNzI&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#🇳🇱 - 3 [852ms] (182 KB/s)
-vless://cf7cad29-4686-4640-a382-32d55d2f4f36@84.201.147.213:2443?flow=xtls-rprx-vision&pbk=hxpWlr-5EgNUPr__9gnoDdF9spsl4W4sfNKv_NJM_FY&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#🇳🇱 - 4 [920ms] (169 KB/s)
-vless://57a0c128-d1a3-4731-b610-e6bd85209cfb@185.22.234.60:6445?mode=gun&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&security=reality&serviceName=grpc&sid=bad5722c72a0&sni=ads.x5.ru&type=grpc#🇳🇱 - 5 [1032ms] (150 KB/s)
-vless://57a0c128-d1a3-4731-b610-e6bd85209cfb@5.188.140.245:993?flow=xtls-rprx-vision&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&security=reality&sid=ad7dab462a323a&sni=ads.x5.ru&type=tcp#🇩🇪 - 6 [1261ms] (123 KB/s)
+vless://a060f842-52f4-412a-8565-7063d8282722@161.104.105.112:443?mode=auto&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df000000&sni=vk.com&type=xhttp#🇺🇸 - 1 [1116ms] (139 KB/s)
+vless://3249a588-0b96-4209-9601-621c7d827cd0@158.160.218.119:443?flow=xtls-rprx-vision&pbk=u918pQoBaR_OKVik9dhLdqhTWDpyWdh84MjukzFCZio&security=reality&sid=c71038697ba6f498&sni=ads.x5.ru&type=tcp#🇷🇺 - 2 [2056ms] (75 KB/s)
