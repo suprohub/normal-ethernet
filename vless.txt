@@ -1,4 +1,4 @@
-vless://6f7ed352-71f5-451a-91b2-0ccb992bc63d@144.31.0.114:47614?pbk=blGFoxAXk6k-wbUz6UdmXiVr6TUQy33OnqVnh3D0ASM&security=reality&sid=068987b7aaa790e7&sni=www.deepl.com&type=xhttp#🇵🇱 - 1 [1082ms] (142 KB/s)
-vless://87a60a9f-36b4-4253-9bb2-7f16a4c92318@158.160.235.238:52006?flow=xtls-rprx-vision&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=28a059440d3d5ba1&sni=eh.vk.com&type=tcp#🇫🇮 - 2 [1497ms] (103 KB/s)
-vless://c4d69096-4026-4da5-9485-20a3da91cb14@176.124.214.235:443?mode=gun&pbk=NhsyjpnYcDfpRfyX2m47AsoHDX_boKi9e1lKOkFNsgE&security=reality&serviceName=grpc&sid=12a73c72&sni=login.vk.com&type=grpc#🇺🇸 - 3 [1539ms] (101 KB/s)
-vless://2d01ee96-14b7-46eb-b612-e7f1ee91a823@132.243.230.125:7771?mode=gun&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&serviceName=splitter.wb.ru&sid=8248954896&sni=splitter.wb.ru&type=grpc#🇫🇮 - 4 [2380ms] (65 KB/s)
+vless://6f7ed352-71f5-451a-91b2-0ccb992bc63d@144.31.0.114:47614?pbk=blGFoxAXk6k-wbUz6UdmXiVr6TUQy33OnqVnh3D0ASM&security=reality&sid=068987b7aaa790e7&sni=www.deepl.com&type=xhttp#🇵🇱 - 1 [990ms] (156 KB/s)
+vless://3dae19c4-f3d1-4dab-9bb2-1d0121813f52@212.233.79.115:52006?flow=xtls-rprx-vision&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&sid=08&sni=ads.x5.ru&type=tcp#🇫🇮 - 2 [1270ms] (121 KB/s)
+vless://c4d69096-4026-4da5-9485-20a3da91cb14@176.124.214.235:443?mode=gun&pbk=NhsyjpnYcDfpRfyX2m47AsoHDX_boKi9e1lKOkFNsgE&security=reality&serviceName=grpc&sid=12a73c72&sni=login.vk.com&type=grpc#🇺🇸 - 3 [1483ms] (105 KB/s)
+vless://638a8499-b3e5-4320-8127-a21c91c49436@46.243.232.186:443?mode=gun&pbk=OoPqWo20Aq1LsqmZCnGxcvLHun7S1d6F4Bx6PbxpOVE&security=reality&serviceName=vless-grpc&sid=5FA44664f6a566d3&sni=ads.x5.ru&type=grpc#🇫🇮 - 4 [2436ms] (63 KB/s)
