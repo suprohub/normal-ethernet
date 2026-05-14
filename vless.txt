@@ -1,4 +1,1 @@
-vless://57f93e64-a9e4-4773-8dc5-ace2d75e83b0@78.159.246.239:443?flow=xtls-rprx-vision&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&security=reality&sid=f4e2b8971d5c3a9f&sni=x5.ru&type=tcp#🇩🇪 - 1 [1667ms] (92 KB/s)
-vless://57f93e64-a9e4-4773-8dc5-ace2d75e83b0@78.159.250.11:443?flow=xtls-rprx-vision&pbk=VEQ1aFtLMHgfLcZ2yIugry8JzVXPE5ZXz72L10RUXVs&security=reality&sid=f4e2b8971d5c3a9f&sni=x5.ru&type=tcp#🇩🇪 - 2 [1708ms] (90 KB/s)
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.238.32:443?flow=xtls-rprx-vision&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&security=reality&sid=2da46294d6a521b2&sni=ads.x5.ru&type=tcp#🇺🇸 - 3 [1823ms] (84 KB/s)
-vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38&security=reality&sid=cb89&sni=yahoo.com&type=tcp#🇷🇸 - 4 [1958ms] (79 KB/s)
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.12:22231?flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#🇳🇱 - 1 [952ms] (162 KB/s)
