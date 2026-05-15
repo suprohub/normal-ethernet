@@ -1,2 +1,0 @@
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?flow=xtls-rprx-vision&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&security=reality&sid=1a1e145c&sni=max.ru&type=tcp#🇩🇪 - 1 [1303ms] (119 KB/s)
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?flow=xtls-rprx-vision&fragment=100-200,10-20,tlshello,100-200&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&r=4f79f1&security=reality&sid=1a1e145c&sni=max.ru&type=tcp#🇩🇪 - 2 [1327ms] (117 KB/s)
