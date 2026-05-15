@@ -1,2 +1,1 @@
-vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?flow=xtls-rprx-vision&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&security=reality&sid=ca5096&sni=apple.com&type=tcp#🇳🇱 - 1 [1759ms] (87 KB/s)
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?flow=xtls-rprx-vision&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&security=reality&sid=1a1e145c&sni=max.ru&type=tcp#🇩🇪 - 2 [1781ms] (87 KB/s)
+vless://3bd48b98-b398-448a-8a63-5771057e0135@147.45.111.65:443?flow=xtls-rprx-vision&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&security=reality&sid=ca5096&sni=apple.com&type=tcp#🇳🇱 - 1 [1084ms] (142 KB/s)
