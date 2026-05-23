@@ -1,1 +1,1 @@
-vless://6784aee2-0dfe-474f-8446-480259ff9918@5.42.124.143:443?extra={&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sid=965af8960474c29c&sni=stats.vk-portal.net&type=xhttp#🇳🇱 - 1 [1163ms] (133 KB/s)
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?mode=gun&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&security=reality&serviceName=vless&sid=7890abcdef01&sni=0w7ymj.spectrum.vu&type=grpc#🇳🇱 - 1 [1399ms] (111 KB/s)
