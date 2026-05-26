@@ -1,4 +1,1 @@
-vless://6784aee2-0dfe-474f-8446-480259ff9918@72.56.8.74:443?extra={&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sid=965af8960474c29c&sni=stats.vk-portal.net&type=xhttp#🇳🇱 - 1 [681ms] (228 KB/s)
-vless://82211460-96ea-46ab-b18f-a7626584f288@51.250.102.69:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇩🇪 - 2 [881ms] (175 KB/s)
-vless://4e783039-6260-4107-9a11-2ab7dc18ded8@91.219.227.203:8081?pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=eh.vk.com&type=tcp#🇩🇪 - 3 [994ms] (156 KB/s)
-vless://ae2bb68b-af78-44f1-b219-367b6247f889@78.17.85.27:8444?flow=xtls-rprx-vision&pbk=tTJrGqCcfwxYj1ch2HQEpttx5ASz3UKCFs9S5Z9v0m4&security=reality&sid=baa06365c922a46c&sni=www.vk.com&type=tcp#🇫🇮 - 4 [1068ms] (144 KB/s)
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.184:443?flow=xtls-rprx-vision&insecure=0&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇪🇪 - 1 [956ms] (164 KB/s)
