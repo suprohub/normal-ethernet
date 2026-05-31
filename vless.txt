@@ -1,0 +1,1 @@
+vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@89.208.199.29:443?flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=tcp#🇰🇿 - 1 [1619ms] (96 KB/s)
