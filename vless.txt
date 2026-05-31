@@ -1,2 +1,1 @@
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#🇫🇮 - 1 [957ms] (98 KB/s)
-vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@89.208.199.29:443?flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=e7&sni=max.ru&type=tcp#🇰🇿 - 2 [1568ms] (99 KB/s)
+vless://248891a9-1ac5-42ad-a68b-2cecef897b0a@146.185.210.27:443?flow=xtls-rprx-vision&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&security=reality&sid=01e7&sni=max.ru&type=tcp#🇵🇱 - 1 [1213ms] (128 KB/s)
