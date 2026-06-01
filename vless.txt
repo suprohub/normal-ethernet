@@ -1,3 +1,3 @@
-vless://033f6ad0-90c1-4ebf-ac12-09d158a13daa@144.31.178.20:8080?extra={&mode=auto&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp#🇪🇪 - 1 [886ms] (176 KB/s)
-vless://48cdcfef-af9c-4eff-888c-cace67ae5881@107.161.168.212:56947?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp#🇺🇸 - 2 [1778ms] (87 KB/s)
-vless://82379a84-d00e-42d1-a09a-89707b4f00dc@51.250.17.80:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 3 [2154ms] (72 KB/s)
+vless://033f6ad0-90c1-4ebf-ac12-09d158a13daa@144.31.178.20:8080?extra={&mode=auto&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp#🇪🇪 - 1 [823ms] (189 KB/s)
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#🇫🇮 - 2 [1289ms] (121 KB/s)
+vless://48cdcfef-af9c-4eff-888c-cace67ae5881@107.161.168.212:56947?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp#🇺🇸 - 3 [1483ms] (105 KB/s)
