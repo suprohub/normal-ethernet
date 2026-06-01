@@ -1,2 +1,0 @@
-vless://8dcc5d10-9aee-4487-b927-d86462ef0f77@144.31.179.44:8080?pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp#🇸🇪 - 1 [1031ms] (151 KB/s)
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@89.169.146.189:443?pbk=eXl8Dpux23etQ0aA_16LUQ9eBwfDqbCaJm7YusDIzUU&security=reality&sid=5e841fab&sni=ads.x5.ru&type=tcp#🇫🇮 - 2 [1715ms] (91 KB/s)
