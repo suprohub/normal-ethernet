@@ -1,2 +1,2 @@
-vless://c4d69096-4026-4da5-9485-20a3da91cb14@77.110.113.49:443?pbk=B3n6bIbENct3qg8xSRiwwxl1SqGpnqAwq-TEUQ2ojks&security=reality&serviceName=grpc&sid=882c8346&sni=dogs.abvphelp.cc&type=grpc#🇩🇪 - 1 [622ms] (253 KB/s)
-vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?mode=auto&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&security=reality&sid=fb711576&sni=travel.yandex.ru&type=xhttp#🇹🇷 - 2 [1109ms] (140 KB/s)
+vless://c4d69096-4026-4da5-9485-20a3da91cb14@77.110.113.49:443?pbk=B3n6bIbENct3qg8xSRiwwxl1SqGpnqAwq-TEUQ2ojks&security=reality&serviceName=grpc&sid=882c8346&sni=dogs.abvphelp.cc&type=grpc#🇩🇪 - 1 [1529ms] (102 KB/s)
+vless://c4d69096-4026-4da5-9485-20a3da91cb14@77.110.113.49:443?mode=gun&pbk=B3n6bIbENct3qg8xSRiwwxl1SqGpnqAwq-TEUQ2ojks&security=reality&serviceName=grpc&sid=882c8346&sni=dogs.abvphelp.cc&type=grpc#🇩🇪 - 2 [1614ms] (97 KB/s)
