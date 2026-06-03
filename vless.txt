@@ -1,3 +1,1 @@
-vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?mode=auto&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&security=reality&sid=fb711576&sni=travel.yandex.ru&type=xhttp#🇹🇷 - 1 [1309ms] (119 KB/s)
-vless://8a17c27a-125e-4e11-83bb-7548cf7f7e98@81.163.22.160:443?mode=gun&pbk=pjKloRtuUEklhdfAsqSOOBxsR_qIDqDpP-qKuL2t4TE&security=reality&sid=0de38513870dfd26&sni=max.ru&type=grpc#🇵🇱 - 2 [1536ms] (101 KB/s)
-vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5994?flow=xtls-rprx-vision&pbk=trrVBG2fDc411qxZQ8__7x6ZlJC4lI2m_mwl-O-BEjQ&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 3 [1695ms] (92 KB/s)
+vless://8a17c27a-125e-4e11-83bb-7548cf7f7e98@81.163.22.160:443?mode=gun&pbk=pjKloRtuUEklhdfAsqSOOBxsR_qIDqDpP-qKuL2t4TE&security=reality&sid=0de38513870dfd26&sni=max.ru&type=grpc#🇵🇱 - 1 [1319ms] (118 KB/s)
