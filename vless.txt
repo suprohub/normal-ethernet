@@ -1,1 +1,2 @@
-vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5987?flow=xtls-rprx-vision&pbk=L4kWgoTxqQc4kAGLrF_ARMRVMPy3_WInhjwt_8OPenU&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 1 [661ms] (238 KB/s)
+vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5987?flow=xtls-rprx-vision&pbk=L4kWgoTxqQc4kAGLrF_ARMRVMPy3_WInhjwt_8OPenU&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 1 [1461ms] (108 KB/s)
+vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5994?flow=xtls-rprx-vision&pbk=trrVBG2fDc411qxZQ8__7x6ZlJC4lI2m_mwl-O-BEjQ&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 2 [1957ms] (80 KB/s)
