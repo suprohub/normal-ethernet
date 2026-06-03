@@ -1,2 +1,1 @@
-vless://c4d69096-4026-4da5-9485-20a3da91cb14@77.110.113.49:443?mode=gun&pbk=B3n6bIbENct3qg8xSRiwwxl1SqGpnqAwq-TEUQ2ojks&security=reality&serviceName=grpc&sid=882c8346&sni=dogs.abvphelp.cc&type=grpc#🇩🇪 - 1 [948ms] (165 KB/s)
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#🇫🇮 - 2 [1029ms] (152 KB/s)
+vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?mode=auto&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&security=reality&sid=fb711576&sni=travel.yandex.ru&type=xhttp#🇹🇷 - 1 [1031ms] (152 KB/s)
