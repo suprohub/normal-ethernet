@@ -1,3 +1,2 @@
-vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.17.80:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 1 [1134ms] (137 KB/s)
-vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.108.162:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 2 [1336ms] (117 KB/s)
-vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5987?flow=xtls-rprx-vision&pbk=L4kWgoTxqQc4kAGLrF_ARMRVMPy3_WInhjwt_8OPenU&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 3 [1592ms] (98 KB/s)
+vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.17.80:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 1 [2111ms] (74 KB/s)
+vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.108.162:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 2 [2495ms] (62 KB/s)
