@@ -1,1 +1,1 @@
-vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5987?flow=xtls-rprx-vision&pbk=L4kWgoTxqQc4kAGLrF_ARMRVMPy3_WInhjwt_8OPenU&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 1 [2793ms] (56 KB/s)
+vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?mode=auto&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&security=reality&sid=fb711576&sni=travel.yandex.ru&type=xhttp#🇹🇷 - 1 [904ms] (172 KB/s)
