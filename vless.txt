@@ -1,3 +1,3 @@
-vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.108.162:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 1 [1054ms] (148 KB/s)
-vless://ea665460-221d-4d9d-b672-8b6dae6ef400@62.3.12.171:8443?mode=auto&pbk=l1wifJhEAz5W5969rpYY9c3tV4gZ6BjGSm2DbUXG920&security=reality&sid=fb711576&sni=travel.yandex.ru&type=xhttp#🇹🇷 - 2 [1123ms] (138 KB/s)
-vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.17.80:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 3 [1231ms] (126 KB/s)
+vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.17.80:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 1 [1134ms] (137 KB/s)
+vless://1bf6e861-c72f-414a-b3fa-acd7e60753b4@51.250.108.162:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 2 [1336ms] (117 KB/s)
+vless://2397be53-f62b-42f7-80fe-5d22627c03a9@185.241.194.34:5987?flow=xtls-rprx-vision&pbk=L4kWgoTxqQc4kAGLrF_ARMRVMPy3_WInhjwt_8OPenU&security=reality&sid=c19de8fa&sni=surfvpn24.ru&type=tcp#🇷🇺 - 3 [1592ms] (98 KB/s)
