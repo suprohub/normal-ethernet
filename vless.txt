@@ -1,1 +1,1 @@
-vless://9ee8e104-89b5-465f-a551-669d372931ff@185.91.54.70:443?mode=gun&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=ads.x5.ru&type=grpc#🇳🇱 - 1 [2208ms] (70 KB/s)
+vless://ba7eed68-0217-4946-8ec7-daaf300a1c59@37.9.4.224:443?flow=xtls-rprx-vision&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=tcp#🇩🇪 - 1 [1022ms] (153 KB/s)
