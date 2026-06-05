@@ -1,1 +1,2 @@
-vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@2.27.40.241:8443?pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&security=reality&serviceName=max.ru&sid=ea1058117be12087&sni=2.27.40.241&type=grpc#🇳🇱 - 1 [1604ms] (97 KB/s)
+vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@2.27.40.241:8443?pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&security=reality&serviceName=max.ru&sid=ea1058117be12087&sni=2.27.40.241&type=grpc#🇳🇱 - 1 [1337ms] (116 KB/s)
+vless://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?flow=xtls-rprx-vision&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&security=reality&sid=493c3d4e37c23c28&sni=api-maps.yandex.ru&type=tcp#🇨🇿 - 2 [1518ms] (102 KB/s)
