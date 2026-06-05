@@ -1,2 +1,1 @@
-vless://322d6d6e-2e34-4ef5-b866-35dab761f1ab@45.88.12.43:8443?flow=xtls-rprx-vision&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=gam2r.skystreamgame.com&type=tcp#🇩🇪 - 1 [870ms] (180 KB/s)
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@72.56.18.179:443?pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&security=reality&sid=2af15d98&sni=www.ya.ru&type=tcp#🇳🇱 - 2 [2152ms] (73 KB/s)
+vless://322d6d6e-2e34-4ef5-b866-35dab761f1ab@144.31.179.44:8443?flow=xtls-rprx-vision&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=gam2r.skystreamgame.com&type=tcp#🇸🇪 - 1 [1698ms] (92 KB/s)
