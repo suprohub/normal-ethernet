@@ -1,1 +1,1 @@
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@72.56.18.179:443?pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&security=reality&sid=2af15d98&sni=www.ya.ru&type=tcp#🇳🇱 - 1 [2207ms] (71 KB/s)
+vless://9ee8e104-89b5-465f-a551-669d372931ff@185.91.54.70:443?mode=gun&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=ads.x5.ru&type=grpc#🇳🇱 - 1 [2208ms] (70 KB/s)
