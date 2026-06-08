@@ -1,1 +1,2 @@
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.23:8443?flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 - 1 [2298ms] (68 KB/s)
+vless://12ccf530-29aa-41b5-b2a8-665d9cb45a97@213.226.112.213:443?flow=xtls-rprx-vision&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&security=reality&sid=07d3a29177aefcb6&sni=wl-7-5.nodes.ac&type=tcp#🇸🇪 - 1 [901ms] (172 KB/s)
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.23:8443?flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 - 2 [2017ms] (78 KB/s)
