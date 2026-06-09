@@ -1,3 +1,1 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@144.31.4.235:443?security=tls&sni=linek.perry.us.kg&type=ws#🇵🇱 - 1 [932ms] (167 KB/s)
-vless://c735df36-db16-4571-8b4b-e20756e3ff28@51.250.97.18:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇩🇪 - 2 [2212ms] (70 KB/s)
-vless://7e961e0e-d2b2-4999-afbb-d36bd1c07ee5@185.254.99.13:80?allowInsecure=0&alpn=h2,http/1.1&insecure=0&mode=auto&security=tls&sni=obhod.riotvpn.eu&type=xhttp#🇩🇪 - 3 [2278ms] (68 KB/s)
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.24:8443?flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#🇬🇧 - 1 [2743ms] (57 KB/s)
