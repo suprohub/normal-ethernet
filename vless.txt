@@ -1,1 +1,2 @@
-vless://62d26257-546d-a267-c4f1-fb19de937929@172.237.100.94:80?pbk=1qXKdju4-bcHyuLpxvBIvd3sfaDOQP_cby4oHN1vsVk&security=reality&sid=78f1c17fd58cbb8f&sni=yahoo.com&type=tcp#🇬🇧 - 1 [2041ms] (76 KB/s)
+vless://62d26257-546d-a267-c4f1-fb19de937929@172.237.100.94:80?pbk=1qXKdju4-bcHyuLpxvBIvd3sfaDOQP_cby4oHN1vsVk&security=reality&sid=78f1c17fd58cbb8f&sni=yahoo.com&type=tcp#🇬🇧 - 1 [1523ms] (103 KB/s)
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.12.91:443?security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 - 2 [2559ms] (61 KB/s)
