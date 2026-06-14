@@ -1,5 +1,2 @@
-vless://fdd15635-6992-41dc-8d10-84b59cb998de@155.117.137.150:443?flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=42e51b053eec3700&sni=cdn9-33.yahoo.com&type=tcp#🇩🇪 - 1 [1096ms] (144 KB/s)
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@186.246.19.177:10444?flow=xtls-rprx-vision&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&security=reality&sid=378086fbdb7c61cd&sni=api-maps.yandex.ru&type=tcp#🇺🇸 - 2 [1882ms] (83 KB/s)
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.11.153:443?security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 - 3 [2193ms] (71 KB/s)
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.11.153:443?allowInsecure=1&insecure=1&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 - 4 [2249ms] (69 KB/s)
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.12.91:443?security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇺🇸 - 5 [2694ms] (58 KB/s)
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@217.179.220.165:443?flow=xtls-rprx-vision&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&security=reality&sid=4755f5d76eb68ffe&sni=uk.monkeyisland.xyz&type=tcp#🇬🇧 - 1 [848ms] (186 KB/s)
+vless://fdd15635-6992-41dc-8d10-84b59cb998de@155.117.137.150:443?flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=42e51b053eec3700&sni=cdn9-33.yahoo.com&type=tcp#🇩🇪 - 2 [1057ms] (150 KB/s)
