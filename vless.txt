@@ -1,5 +1,3 @@
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@194.67.120.156:543?flow=xtls-rprx-vision&pbk=H4VeKzsqesO2LggCpL0WuYRojKXWNF_y4UABkGRadxs&security=reality&sid=d898401f400ccf57&sni=max.ru&type=tcp#🇱🇹 - 1 [595ms] (265 KB/s)
-vless://1dd5f2be-f124-4f35-9239-8abc042829c2@79.174.78.217:543?flow=xtls-rprx-vision&pbk=H4VeKzsqesO2LggCpL0WuYRojKXWNF_y4UABkGRadxs&security=reality&sid=d898401f400ccf57&sni=max.ru&type=tcp#🇱🇻 - 2 [856ms] (184 KB/s)
-vless://f1ad9a4f-fd50-4923-ab8d-b2a1a77fcfe1@51.250.106.87:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇩🇪 - 3 [1051ms] (149 KB/s)
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&security=reality&sid=5e841fab&sni=wildberries.ru&type=tcp#🇵🇱 - 4 [1084ms] (144 KB/s)
-vless://493de030-d144-435e-b20c-60218904a2f8@51.250.106.87:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇩🇪 - 5 [1379ms] (68 KB/s)
+vless://744e081e-7f9b-444a-a49f-0653a094d349@186.246.7.4:443?flow=xtls-rprx-vision&pbk=M-e6-5BDMTve0y1AeY63ozBbmlvdCZRdIl6EwbcyjX4&security=reality&sid=033a8c05ec7890af&sni=vk.com&type=tcp#🇨🇿 - 1 [1053ms] (148 KB/s)
+vless://f1ad9a4f-fd50-4923-ab8d-b2a1a77fcfe1@51.250.24.222:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇳🇱 - 2 [1541ms] (101 KB/s)
+vless://493de030-d144-435e-b20c-60218904a2f8@51.250.24.222:443?flow=xtls-rprx-vision&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#🇩🇪 - 3 [1915ms] (82 KB/s)
