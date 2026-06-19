@@ -1,3 +1,2 @@
-vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?extra=null&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&security=reality&sid=4fd3840415403f31&sni=fi1.foxnezia.dev&type=xhttp#🇫🇮 - 1 [675ms] (234 KB/s)
-vless://b858e596-7b21-4380-a986-de285c680dee@95.183.11.123:443?flow=xtls-rprx-vision&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&security=reality&sid=0be28edc1b0278d6&sni=wl-8-1.nodes.ac&type=tcp#🇸🇪 - 2 [990ms] (159 KB/s)
-vless://4f8f91c4-1301-48a0-abfd-bebdb048871d@89.169.45.157:44443?pbk=zHEJpG7OIMy1r1VHuhgWMJRa9okALRARYohcuJeXmjE&security=reality&sid=b249b66ed868&sni=www.yandex.ru&type=xhttp#🇫🇷 - 3 [1081ms] (145 KB/s)
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 1 [844ms] (187 KB/s)
+vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?extra=null&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&security=reality&sid=4fd3840415403f31&sni=fi1.foxnezia.dev&type=xhttp#🇫🇮 - 2 [2753ms] (57 KB/s)
