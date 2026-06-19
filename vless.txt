@@ -1,4 +1,0 @@
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@85.239.54.195:444?mode=gun&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&security=reality&serviceName=api-maps.yandex.ru&sid=d7abeb515312dc2f&sni=api-maps.yandex.ru&type=grpc#🇫🇮 - 1 [676ms] (231 KB/s)
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@188.225.32.59:2053?mode=gun&pbk=ZYLVtAAKXdjtyV3rLfODQiheWedxr6_ZRGX6gfGd51k&security=reality&serviceName=deepl.com&sid=d7abeb515312dc2f&sni=deepl.com&type=grpc#🇵🇱 - 2 [645ms] (146 KB/s)
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@147.45.237.166:447?mode=gun&pbk=sCpeAZBGOOE_9CeeXyu3-jl68ODzQjts8gG_ZHk44Qk&security=reality&serviceName=api-maps.yandex.ru&sid=d7abeb515312dc2f&sni=api-maps.yandex.ru&type=grpc#🇫🇮 - 3 [652ms] (144 KB/s)
-vless://141bbdef-a341-4846-aec7-9d6531ff8790@147.45.237.166:2053?mode=gun&pbk=ZYLVtAAKXdjtyV3rLfODQiheWedxr6_ZRGX6gfGd51k&security=reality&serviceName=deepl.com&sid=d7abeb515312dc2f&sni=deepl.com&type=grpc#🇵🇱 - 4 [926ms] (102 KB/s)
