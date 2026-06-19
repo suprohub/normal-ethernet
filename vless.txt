@@ -1,2 +1,2 @@
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 1 [1129ms] (139 KB/s)
-vless://dd9901b2-1b17-0017-b468-b7e94a5bc2c6@88.218.67.115:443?flow=xtls-rprx-vision&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top&type=tcp#🇹🇷 - 2 [1281ms] (73 KB/s)
+vless://0e49e208-e09e-49bc-afee-2907e5419107@80.64.24.118:443?flow=xtls-rprx-vision&pbk=8UWFWRTGQEwvG_tmQPDnZOxxVsTmLI2aEjONq1Ad0Hk&security=reality&sid=531e2895f6b53c8f&sni=rus.tropatg.ru&type=tcp#🇷🇺 - 1 [719ms] (133 KB/s)
+vless://dd9901b2-1b17-0017-b468-b7e94a5bc2c6@88.218.67.115:443?flow=xtls-rprx-vision&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top&type=tcp#🇹🇷 - 2 [1484ms] (63 KB/s)
