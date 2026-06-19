@@ -1,2 +1,1 @@
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 1 [1236ms] (127 KB/s)
-vless://618b57fd-6078-4dec-a658-4c031205f8d6@45.194.66.181:44333?flow=xtls-rprx-vision&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇵🇱 - 2 [1787ms] (53 KB/s)
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 1 [887ms] (178 KB/s)
