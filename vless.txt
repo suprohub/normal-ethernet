@@ -1,2 +1,2 @@
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 1 [844ms] (187 KB/s)
-vless://77864cb4-7791-4e01-97ed-0aaf6904389f@193.33.133.189:443?extra=null&pbk=Ga_FpKnw8ZXngh86KkciKc7SrKNljVat1_8fkyVWbjY&security=reality&sid=4fd3840415403f31&sni=fi1.foxnezia.dev&type=xhttp#🇫🇮 - 2 [2753ms] (57 KB/s)
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 1 [820ms] (116 KB/s)
+vless://8a59eb4c-d127-4f32-9f51-9a1be5086fc0@65.109.217.246:2026?flow=xtls-rprx-vision&pbk=yt2kyF7DABbLCwB49Hd3VuNu7-QN57GiLoeiD5vVg30&security=reality&sid=c576f7ccd9019b&sni=www.oracle.com&type=tcp#🇫🇮 - 2 [1988ms] (78 KB/s)
