@@ -1,2 +1,1 @@
-vless://dd9901b2-1b17-0017-b468-b7e94a5bc2c6@88.218.67.115:443?flow=xtls-rprx-vision&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top&type=tcp#🇹🇷 - 1 [1166ms] (134 KB/s)
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?mode=auto&type=xhttp#🇳🇱 - 2 [1337ms] (117 KB/s)
+vless://618b57fd-6078-4dec-a658-4c031205f8d6@45.194.66.181:44333?flow=xtls-rprx-vision&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇵🇱 - 1 [2441ms] (64 KB/s)
