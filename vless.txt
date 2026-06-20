@@ -1,0 +1,2 @@
+vless://85d509cd-e641-443a-b227-ddc765adeb2d@46.8.208.30:8443?flow=xtls-rprx-vision&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&security=reality&sid=ad7dab462a323acb&sni=ads.x5.ru&type=tcp#🇩🇪 - 1 [1166ms] (134 KB/s)
+vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&sid=be0191cc&sni=www.tesla.com&type=tcp#🇳🇱 - 2 [2694ms] (35 KB/s)
