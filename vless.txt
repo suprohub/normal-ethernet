@@ -1,2 +1,2 @@
-vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@130.49.179.128:443?mode=gun&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&security=reality&serviceName=data-sync&sid=d5c7f84e37e0c12d&sni=google.com&type=grpc#🇫🇷 - 1 [1076ms] (88 KB/s)
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?mode=gun&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&serviceName=grpc&sid=63a9b4c563de9906&sni=yandex.ru&type=grpc#🇫🇮 - 2 [1708ms] (92 KB/s)
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:44333?flow=xtls-rprx-vision&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇪🇪 - 1 [3365ms] (28 KB/s)
+vless://1f11b5cd-7651-492c-9dbd-4f9bad6acd20@205.237.105.80:443?flow=xtls-rprx-vision&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&security=reality&sid=d0a1665d1b96515e&sni=dev.max.ru&type=tcp#🇫🇷 - 2 [3849ms] (24 KB/s)
