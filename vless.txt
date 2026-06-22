@@ -1,1 +1,1 @@
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@94.156.122.139:2053?pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=tiktaktok.ru&type=tcp#🇩🇪 - 1 [2601ms] (60 KB/s)
+vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@94.156.122.139:2053?pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=tiktaktok.ru&type=tcp#🇩🇪 - 1 [2037ms] (47 KB/s)
