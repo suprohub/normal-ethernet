@@ -1,3 +1,3 @@
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@5.255.110.92:443?flow=xtls-rprx-vision&pbk=aDTAgXCrUPm5GT3gpKJQu36w_COI7guuxnuON-wy22Y&security=reality&sid=09d7531e98f74f12&sni=biba25-cdn.1o0.net&type=tcp#🇳🇱 - 1 [1196ms] (78 KB/s)
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?mode=auto&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=xhttp#🇫🇮 - 2 [1656ms] (57 KB/s)
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?flow=xtls-rprx-vision&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#🇫🇮 - 3 [2154ms] (44 KB/s)
+vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@130.49.179.128:443?mode=gun&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&security=reality&serviceName=data-sync&sid=d5c7f84e37e0c12d&sni=google.com&type=grpc#🇫🇷 - 1 [1102ms] (86 KB/s)
+vless://7e403c39-afe3-48da-9c76-00b4be70a0f2@46.182.24.228:22443?pbk=q4sFqpERFMVwyofUzconfHbfcLapsGAGxKvDdC3mX3s&security=reality&serviceName=grpc&sid=d634fa0acfdf623d&sni=smartcaptcha.yandexcloud.net&type=grpc#🇳🇱 - 2 [1865ms] (84 KB/s)
+vless://7e403c39-afe3-48da-9c76-00b4be70a0f2@46.182.24.228:22443?mode=gun&pbk=q4sFqpERFMVwyofUzconfHbfcLapsGAGxKvDdC3mX3s&security=reality&serviceName=grpc&sid=d634fa0acfdf623d&sni=smartcaptcha.yandexcloud.net&type=grpc#🇳🇱 - 3 [1995ms] (79 KB/s)
