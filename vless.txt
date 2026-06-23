@@ -1,5 +1,2 @@
-vless://d56897c3-a83d-4572-9b97-25440bb189c5@213.165.56.30:9443?flow=xtls-rprx-vision&pbk=FUrYQkpMWHhiL-7Z-okEFd9fAkTv0mt6Tpktd4vyoDE&security=reality&sid=a1b2c3d4e5f6789a&sni=api-maps.yandex.ru&type=tcp#🇩🇪 - 1 [1114ms] (148 KB/s)
-vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&security=reality&sid=48a458b7e7cb52ae&sni=music.yandex.ru&type=tcp#🇳🇱 - 2 [984ms] (105 KB/s)
-vless://7b3b6e39-dd78-000b-af6e-6d00da419aa0@109.196.101.41:443?flow=xtls-rprx-vision&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&security=reality&sid=a73cf719b624&sni=ru17.aimodelhub.top&type=tcp#🇷🇺 - 3 [1268ms] (132 KB/s)
-vless://65398dc3-1a6f-4d05-a743-beb27999f242@154.91.157.113:443?flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=b4f3a05896b60039&sni=rbc.ru&type=tcp#🇧🇷 - 4 [1985ms] (52 KB/s)
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@104.167.198.198:443?flow=xtls-rprx-vision&pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🇺🇸 - 5 [2716ms] (38 KB/s)
+vless://b0f08ae1-7cf9-4612-ad61-72681e0b92da@138.124.4.132:443?mode=gun&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&security=reality&serviceName=data-sync&sid=d5c7f84e37e0c12d&sni=google.com&type=grpc#🇪🇪 - 1 [1591ms] (66 KB/s)
+vless://65398dc3-1a6f-4d05-a743-beb27999f242@154.91.157.113:443?flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=b4f3a05896b60039&sni=rbc.ru&type=tcp#🇧🇷 - 2 [2275ms] (73 KB/s)
