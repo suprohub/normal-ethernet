@@ -1,1 +1,2 @@
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@94.183.187.39:444?pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#🇫🇷 - 1 [661ms] (253 KB/s)
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@94.183.187.39:444?pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#🇫🇷 - 1 [1028ms] (162 KB/s)
+vless://994a7e2b-1944-4c7d-877a-d413dca909c7@82.22.40.225:443?flow=xtls-rprx-vision&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&security=reality&sid=a67894cec8a930c4&sni=aneta.kosmolet.xyz&type=tcp#🇷🇺 - 2 [2425ms] (68 KB/s)
