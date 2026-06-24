@@ -1,5 +1,1 @@
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@94.183.187.39:444?pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#🇫🇷 - 1 [622ms] (269 KB/s)
-vless://6d25bc1f-587a-4048-8bcc-5df0283c77ce@62.152.58.222:443?flow=xtls-rprx-vision&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&type=tcp#🇩🇪 - 2 [794ms] (210 KB/s)
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#🇩🇪 - 3 [969ms] (171 KB/s)
-vless://994a7e2b-1944-4c7d-877a-d413dca909c7@82.22.40.225:443?flow=xtls-rprx-vision&pbk=-uB8zIro9WM-NPpiSlOLWHouzZVXibfmT-MxwkacoQ0&security=reality&sid=a67894cec8a930c4&sni=aneta.kosmolet.xyz&type=tcp#🇷🇺 - 4 [1059ms] (157 KB/s)
-vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000?flow=xtls-rprx-vision&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&security=reality&sid=6148904a&sni=yandex.ru&type=tcp#🇷🇺 - 5 [1512ms] (111 KB/s)
+vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@94.183.187.39:444?pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#🇫🇷 - 1 [661ms] (253 KB/s)
