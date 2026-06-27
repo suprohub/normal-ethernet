@@ -1,3 +1,2 @@
-vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?security=tls&sni=freetools-h2s.pages.dev&type=ws#🇸🇪 - 1 [689ms] (240 KB/s)
-vless://e0e576ae-2428-4928-a280-2d3b96daf30d@45.13.226.97:443?pbk=3zq_fR7PzSDc9NBQiECTiUISD1rhvsXSMgd_ZIcqvWY&security=reality&sid=ec42626e&sni=www.avito.ru&type=tcp#🇩🇪 - 2 [1635ms] (101 KB/s)
-vless://b1ed5cfa-7ba2-49fb-9d44-3d2a4aa2aee3@82.202.156.57:443?pbk=rLZ958cX7AMasTIeMo5amhntDinsuY3P5zwnc1Pebhw&security=reality&sid=e736&sni=www.google.com&type=tcp#🇬🇧 - 3 [1902ms] (87 KB/s)
+vless://fa2a776e-ae6e-43b4-96a4-460b419c7d24@77.110.113.130:3444?mode=gun&pbk=q17q48JzJDfUbyY6ywXyAoD41m90QkIJ-ytwMULKjhY&security=reality&serviceName=xyz&sid=995c9191053a0d54&sni=epp.genproc.gov.ru&type=grpc#🇩🇪 - 1 [787ms] (213 KB/s)
+vless://1189bc23-27f7-47c1-89d4-1e6843a09cb6@172.64.147.226:2083?security=tls&sni=freetools-h2s.pages.dev&type=ws#🇸🇪 - 2 [866ms] (192 KB/s)
