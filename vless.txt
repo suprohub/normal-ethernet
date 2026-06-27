@@ -1,4 +1,0 @@
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@162.159.36.5:8443?allowInsecure=0&insecure=0&security=tls&sni=mocik38250.pages.dev&type=ws#🇷🇺 - 1 [800ms] (208 KB/s)
-vless://60300afa-3366-4ae3-959a-7b50438acebb@82.202.142.204:9443?flow=xtls-rprx-vision&pbk=HAX7wOHrpxsVsDXpcE5MXaXdz3_GR3Hpf56YIDbmsyQ&security=reality&sid=cdba5a3c&sni=bear.wequ.host&type=tcp#🇹🇷 - 2 [1096ms] (152 KB/s)
-vless://222ca353-a842-44f8-a86f-317fbbf73f2c@185.147.27.96:8443?flow=xtls-rprx-vision&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&security=reality&sid=30095c0f0d&sni=max.ru&type=tcp#🇷🇺 - 3 [1260ms] (132 KB/s)
-vless://8d7032fa-47e2-40b9-86ee-0072b23feff8@95.163.209.42:443?flow=xtls-rprx-vision&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&security=reality&sid=a1&sni=vk.com&type=tcp#🇩🇪 - 4 [1977ms] (83 KB/s)
