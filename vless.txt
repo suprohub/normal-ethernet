@@ -1,2 +1,3 @@
-vless://694eadbe-d61f-4f80-957b-d55d990e8ffa@84.201.178.0:443?flow=xtls-rprx-vision&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&security=reality&sid=2bb326a463fd1937&sni=yandex.ru&type=tcp#🇷🇺 - 1 [864ms] (191 KB/s)
-vless://a6c595e7-34e2-4762-8947-1ffd25bf99de@194.55.239.8:443?flow=xtls-rprx-vision&pbk=pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU&security=reality&sid=2a552b0d4d15e0f7&sni=max.ru&type=tcp#🇷🇺 - 2 [1221ms] (136 KB/s)
+vless://123b2710-da1a-48a6-b39b-c050ae5ca386@144.31.178.8:8080?extra={&mode=auto&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp#🇪🇪 - 1 [1165ms] (144 KB/s)
+vless://694eadbe-d61f-4f80-957b-d55d990e8ffa@84.201.178.0:443?flow=xtls-rprx-vision&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&security=reality&sid=2bb326a463fd1937&sni=yandex.ru&type=tcp#🇷🇺 - 2 [1481ms] (112 KB/s)
+vless://694eadbe-d61f-4f80-957b-d55d990e8ffa@84.201.160.167:443?flow=xtls-rprx-vision&pbk=ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ&security=reality&sid=2bb326a463fd1937&sni=yandex.ru&type=tcp#🇷🇺 - 3 [1490ms] (111 KB/s)
