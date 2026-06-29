@@ -1,2 +1,1 @@
-vless://8338859d-4fd8-41ca-8b46-876e9df7b886@5.253.59.220:443?burmalda=a0b7aca9&flow=xtls-rprx-vision&pbk=3NM_w-CzrSzwMPkVl2UpgwtmdZbt78d3PsQEl0wFhk4&security=reality&sid=6e10f0b884da57d5&sni=m.ok.ru&type=tcp#🇳🇱 - 1 [984ms] (168 KB/s)
-vless://7b973a03-7d66-4ae0-85a8-d43a5e561b74@188.68.218.17:2083?mode=gun&pbk=-ljhp6OZ_8KudLYANB-6BD6XaLIS5RqWvFnYRXKrXms&security=reality&serviceName=grpc&sid=a7c236bb91557d48&sni=ads.x5.ru&type=grpc#🇫🇮 - 2 [1137ms] (145 KB/s)
+vless://7b973a03-7d66-4ae0-85a8-d43a5e561b74@188.68.218.17:2083?mode=gun&pbk=-ljhp6OZ_8KudLYANB-6BD6XaLIS5RqWvFnYRXKrXms&security=reality&serviceName=grpc&sid=a7c236bb91557d48&sni=ads.x5.ru&type=grpc#🇫🇮 - 1 [1656ms] (100 KB/s)
