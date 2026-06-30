@@ -1,3 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 1 [854ms] (195 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 2 [1108ms] (150 KB/s)
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.197.97:443?pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🇺🇸 - 3 [1936ms] (85 KB/s)
+vless://532d2ecc-b3ff-4270-8e9d-27396465829c@51.250.30.235:443?flow=xtls-rprx-vision&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&type=tcp#🇩🇪 - 1 [810ms] (206 KB/s)
+vless://532d2ecc-b3ff-4270-8e9d-27396465829c@51.250.30.235:443?flow=xtls-rprx-vision&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&security=reality&sid=27e53bbcab7593d7&sni=www.vk.com&type=tcp#🇩🇪 - 2 [1236ms] (135 KB/s)
