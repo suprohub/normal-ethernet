@@ -1,2 +1,1 @@
-vless://7272d1d6-9bdb-4d0f-8e42-d326008674bf@193.68.88.192:30904?pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&security=reality&sid=566130c391356a&sni=vk.ru&type=tcp#🇫🇮 - 1 [1022ms] (164 KB/s)
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.197.97:443?pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🇺🇸 - 2 [1496ms] (110 KB/s)
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@104.167.197.97:443?pbk=7kOgSBnHMeClMoLD0PdTQGflVNiYl47pT94TBsTXh1Y&security=reality&sid=8166&sni=www.nvidia.com&type=tcp#🇺🇸 - 1 [1470ms] (113 KB/s)
