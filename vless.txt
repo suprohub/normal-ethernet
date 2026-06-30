@@ -1,1 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 1 [1344ms] (123 KB/s)
+vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.130.147.227:443?pbk=HHTugdBbPIsLatDJJIqLBA2xYiLzv5pGijXREUABvQU&security=reality&sid=0a&sni=www.ya.ru&type=tcp#🇵🇱 - 1 [1263ms] (132 KB/s)
+vless://17930cee-cbea-484b-ad7f-7b8062825fee@37.49.229.44:443?flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=tcp#🇳🇱 - 2 [1423ms] (116 KB/s)
