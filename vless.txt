@@ -1,5 +1,0 @@
-vless://71760041-dbc0-4e42-8b4b-0bf83301933e@62.152.60.76:443?alpn=h2&mode=gun&security=tls&serviceName=trojan-grpc&sni=home.kiwds.site&type=grpc#🇫🇮 - 1 [798ms] (209 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 2 [984ms] (168 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 3 [992ms] (168 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 4 [1296ms] (128 KB/s)
-vless://08379cf5-8256-404f-a6c5-2b933bb6c73f@194.87.131.105:443?flow=xtls-rprx-vision&pbk=mrdwYKeDH1Zj4EPov28I9cd3lQB7ZZFn_g7frYIsARY&security=reality&sid=99410f96248aac87&sni=max.ru&type=tcp#🇷🇺 - 5 [1643ms] (102 KB/s)
