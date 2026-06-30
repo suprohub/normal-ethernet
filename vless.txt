@@ -1,6 +1,2 @@
-vless://f8fb09dc-6dfe-4dda-b2a9-7c6c2eec2951@62.152.60.76:443?alpn=h2&mode=gun&security=tls&serviceName=trojan-grpc&sni=home.kiwds.site&type=grpc#🇫🇮 - 1 [825ms] (203 KB/s)
-vless://8c2008af-5c71-49b4-90d5-3ded01151a78@62.152.60.76:443?alpn=h2&mode=gun&security=tls&serviceName=trojan-grpc&sni=home.kiwds.site&type=grpc#🇫🇮 - 2 [851ms] (197 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 3 [877ms] (190 KB/s)
-vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:4089?flow=xtls-rprx-vision&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=ads.x5.ru&type=tcp#🇫🇮 - 4 [1263ms] (131 KB/s)
-vless://614527b7-f7bd-48eb-a646-dadd7538744b@176.109.85.77:443?flow=xtls-rprx-vision&pbk=IaVviIkeeqCGsUm2yvrcroGw4HWjawuwoOnpG4GCuwU&security=reality&sid=dec4632b99673b00&sni=home.auxgfm.site&type=tcp#🇫🇮 - 5 [1508ms] (111 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 6 [2192ms] (75 KB/s)
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 1 [833ms] (199 KB/s)
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 2 [955ms] (173 KB/s)
