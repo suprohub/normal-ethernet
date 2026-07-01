@@ -1,4 +1,0 @@
-vless://64a50803-4f5e-4500-8d53-94a4d4f0f8ea@144.31.5.9:2052?pbk=ryAJ1zqT4NsjbHBsoBwRxatrLQEy9VmercwCQgMd6DI&security=reality&sid=de1384028d477a2b&sni=dzen.ru&type=xhttp#🇵🇱 - 1 [600ms] (277 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 2 [715ms] (232 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 3 [730ms] (228 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 4 [916ms] (181 KB/s)
