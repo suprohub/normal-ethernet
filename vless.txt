@@ -1,5 +1,2 @@
-vless://64a50803-4f5e-4500-8d53-94a4d4f0f8ea@144.31.5.9:2052?pbk=ryAJ1zqT4NsjbHBsoBwRxatrLQEy9VmercwCQgMd6DI&security=reality&sid=de1384028d477a2b&sni=dzen.ru&type=xhttp#🇵🇱 - 1 [750ms] (221 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 2 [1259ms] (132 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 3 [1314ms] (126 KB/s)
-vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:3087?flow=xtls-rprx-vision&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=dzen.ru&type=tcp#🇩🇪 - 4 [1796ms] (92 KB/s)
-vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?pbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&security=reality&sid=48a458b7e7cb52ae&sni=music.yandex.ru&type=tcp#🇳🇱 - 5 [2597ms] (64 KB/s)
+vless://64a50803-4f5e-4500-8d53-94a4d4f0f8ea@144.31.5.9:2052?pbk=ryAJ1zqT4NsjbHBsoBwRxatrLQEy9VmercwCQgMd6DI&security=reality&sid=de1384028d477a2b&sni=dzen.ru&type=xhttp#🇵🇱 - 1 [1181ms] (141 KB/s)
+vless://e4cd624c-18d6-415e-8cde-0a800e06ce31@94.139.251.7:3087?flow=xtls-rprx-vision&pbk=efO4FU4XI20hptm8R_6awJ-UmyHI_5zNaBhQEyBBLVU&security=reality&sid=abcd1234&sni=dzen.ru&type=tcp#🇩🇪 - 2 [2052ms] (81 KB/s)
