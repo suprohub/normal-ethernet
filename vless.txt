@@ -1,3 +1,2 @@
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 1 [955ms] (173 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 2 [993ms] (167 KB/s)
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 3 [1598ms] (104 KB/s)
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@85.155.98.34:443?security=tls&sni=vpn47.cc.cd&type=ws#🇳🇱 - 1 [1091ms] (152 KB/s)
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.233.251.202:443?allowInsecure=0&insecure=0&security=tls&sni=vpn47.cc.cd&type=ws#🇸🇪 - 2 [1233ms] (134 KB/s)
